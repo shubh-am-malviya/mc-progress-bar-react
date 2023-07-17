@@ -1,0 +1,17 @@
+.progress-container {
+  background-color: #bcbaba;
+  border-radius: 25px;
+  width: 400px;
+  height: 50px;
+  margin: 20px;
+  overflow: hidden;
+}
+
+.progress-filled {
+  background-color: #4ca24c;
+  width: 100%;
+  height: 100%;
+  transition: transform .5s ease-in;
+}
+
+/*# sourceMappingURL=index.1303bb05.css.map */
